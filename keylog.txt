@@ -1,0 +1,17 @@
+Key.shift
+'H'
+'e'
+'l'
+'l'
+'o'
+Key.space
+Key.shift
+'W'
+'o'
+'r'
+'l'
+'d'
+Key.shift
+'!'
+Key.cmd
+Key.cmd
